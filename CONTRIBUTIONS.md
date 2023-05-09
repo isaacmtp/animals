@@ -1,1 +1,5 @@
-Giraffe
+Giraffe🦒
+Bear🐻
+panda🐼
+lion🦁
+tiger🐯
